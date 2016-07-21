@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T20:17:33.939Z'
+datePublished: '2016-07-21T20:20:32.674Z'
 sourcePath: _posts/2016-04-15-21-amazing-treehouse-accommodations-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/treehouse-accommodation/'
@@ -40,7 +40,7 @@ author:
     url: 'http://blog.frontiergap.com/'
     avatar: {}
 via: {}
-dateModified: '2016-07-21T20:17:33.571Z'
+dateModified: '2016-07-21T20:20:32.304Z'
 title: 21 Amazing Treehouse Accommodations | Travel Away
 app_links: []
 publisher:
@@ -57,6 +57,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a466188a960a8d15b57a00e159bf3791ecaa3529.jpg" /><h1>21 Amazing Treehouse Accommodations | Travel Away</h1><p>Take a break from hotels and resorts and get back to nature with one of these amazing treehouse accommodations that combine comfort with the thrill of being immersed in nature. Some of them are rustic cabins built into the canopy of majestic trees, others make for luxurious nature retreats, yet others are true architectural marvels with high-tech interiors and contemporary amenities.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd009aa-9889-4e62-8be6-e00b5d35dca4.jpg)
 
 testste
