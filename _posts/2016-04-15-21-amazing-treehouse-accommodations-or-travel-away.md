@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T20:04:44.230Z'
+datePublished: '2016-07-21T20:12:51.818Z'
 sourcePath: _posts/2016-04-15-21-amazing-treehouse-accommodations-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/treehouse-accommodation/'
@@ -40,7 +40,7 @@ author:
     url: 'http://blog.frontiergap.com/'
     avatar: {}
 via: {}
-dateModified: '2016-07-21T20:04:43.855Z'
+dateModified: '2016-07-21T20:12:51.251Z'
 title: 21 Amazing Treehouse Accommodations | Travel Away
 app_links: []
 publisher:
