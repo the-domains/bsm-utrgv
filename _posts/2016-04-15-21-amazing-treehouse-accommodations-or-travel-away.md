@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T19:57:26.997Z'
+datePublished: '2016-07-21T20:04:44.230Z'
 sourcePath: _posts/2016-04-15-21-amazing-treehouse-accommodations-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/treehouse-accommodation/'
@@ -39,7 +39,8 @@ author:
   - name: Sam
     url: 'http://blog.frontiergap.com/'
     avatar: {}
-dateModified: '2016-07-21T19:57:26.435Z'
+via: {}
+dateModified: '2016-07-21T20:04:43.855Z'
 title: 21 Amazing Treehouse Accommodations | Travel Away
 app_links: []
 publisher:
@@ -48,18 +49,14 @@ publisher:
   url: 'http://travelaway.me'
   favicon: >-
     http://1dib1q3k1s3e11a5av3bhlnb.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/cropped-newfavta-192x192.png
-description: >-
-  Take a break from hotels and resorts and get back to nature with one of these
-  amazing treehouse accommodations that combine comfort with the thrill of being
-  immersed in nature. Some of them are rustic cabins built into the canopy of
-  majestic trees, others make for luxurious nature retreats, yet others are true
-  architectural marvels with high-tech interiors and contemporary amenities.
+description: testste
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>21 Amazing Treehouse Accommodations | Travel Away</h1><p>Take a break from hotels and resorts and get back to nature with one of these amazing treehouse accommodations that combine comfort with the thrill of being immersed in nature. Some of them are rustic cabins built into the canopy of majestic trees, others make for luxurious nature retreats, yet others are true architectural marvels with high-tech interiors and contemporary amenities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a466188a960a8d15b57a00e159bf3791ecaa3529.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a466188a960a8d15b57a00e159bf3791ecaa3529.jpg" /><h1>21 Amazing Treehouse Accommodations | Travel Away</h1><p>Take a break from hotels and resorts and get back to nature with one of these amazing treehouse accommodations that combine comfort with the thrill of being immersed in nature. Some of them are rustic cabins built into the canopy of majestic trees, others make for luxurious nature retreats, yet others are true architectural marvels with high-tech interiors and contemporary amenities.</p></article>
+
+testste
